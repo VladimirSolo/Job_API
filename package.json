@@ -1,0 +1,23 @@
+{
+  "name": "job_api",
+  "version": "1.0.0",
+  "description": "Create API for using in project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirSolo/Job_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirSolo/Job_API/issues"
+  },
+  "homepage": "https://github.com/VladimirSolo/Job_API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
